@@ -11,6 +11,7 @@ A live **energy-flow monitor for Toyota hybrids** on Android head units, using a
 | | English | Български |
 |---|---|---|
 | Beta tester guide | [Tester guide](tester-guide.md) | [Ръководство за тестери](tester-guide-bg.md) |
+| Privacy policy | [Privacy policy](privacy-policy.md) | [Политика за поверителност](privacy-policy-bg.md) |
 
 **Support:** support.hybridflow@gmail.com
 
