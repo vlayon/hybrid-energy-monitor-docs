@@ -124,6 +124,5 @@ Each report has an ID like **R-7F3K**. Mention it if you also write in the forum
 - **Bluetooth drops:** if a phone streams music over the head unit's Bluetooth at the same time, the connection to the adapter can drop now and then. The app reconnects by itself within a few seconds.
 - **Small icon:** some head-unit launchers draw all downloaded apps on a coloured plate, so the icon looks small. That's the launcher's style, not the app.
 - **Grey values with "(last)":** with the ignition off, the car doesn't answer, so the app shows the last known battery % in grey.
-- **Browser virus warning when downloading the APK:** a false alarm for new apps outside Google Play. That's why we recommend the Play beta link.
 
 Thank you! 🙏
