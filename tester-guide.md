@@ -50,8 +50,9 @@ You can check your adapter's version in the app: **Settings → Send report → 
 ## 2. Installing the app
 
 ### With Google Play (recommended)
-1. Open the **beta link**: `[link will be added here]`.
-2. Sign in with the Google account you gave us, and tap **"Become a tester"**.
+Use the same Google account as the Play Store on your head unit or phone.
+1. **Join the testers group:** <https://groups.google.com/g/hybrid-energy-monitor-testers> → **"Ask to join group"**. Places are limited; we approve requests by hand, usually within a day.
+2. When you're approved, open the **beta link**: <https://play.google.com/apps/testing/com.hybridflow.monitor> and tap **"Become a tester"**.
 3. Tap **"Download it on Google Play"** and install. Updates arrive automatically through the Play Store.
 4. **Please stay in the beta for at least 14 days.** Google requires this before the app can be published for everyone.
 
