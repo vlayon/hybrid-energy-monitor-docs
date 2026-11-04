@@ -50,7 +50,7 @@ You can check your adapter's version in the app: **Settings → Send report → 
 ## 2. Installing the app
 
 ### With Google Play (recommended)
-Use the same Google account as the Play Store on your head unit or phone.
+**Use the Google account of the device you'll install on.** Installing on the head unit? Then join the group and tap "Become a tester" with **the account the head unit's Play Store uses** (open Play Store on the head unit and tap the profile picture to see it). If you opt in on your phone with a different account, the beta won't show up on the head unit.
 1. **Join the testers group:** <https://groups.google.com/g/hybrid-energy-monitor-testers> → **"Ask to join group"**. Places are limited; we approve requests by hand, usually within a day.
 2. When you're approved, open the **beta link**: <https://play.google.com/apps/testing/com.hybridflow.monitor> and tap **"Become a tester"**.
 3. Tap **"Download it on Google Play"** and install. Updates arrive automatically through the Play Store.
@@ -111,11 +111,10 @@ A report from the app is the most useful, because it includes the technical data
 ### Option B – share it directly (if your head unit supports it)
 In **Settings → Send report**, tap **Share via app** instead. If the head unit has an email app (or Telegram, WhatsApp…), it opens with the report attached and **support.hybridflow@gmail.com** already filled in. If nothing opens or sending fails, use Option A; it always works.
 
-Each report has an ID like **R-7F3K**. Mention it if you also write in the forum.
+Each report has an ID like **R-7F3K**. Mention it if you also write to us by email.
 
 ### Or write to us
 - **Email:** support.hybridflow@gmail.com
-- **Forum thread:** `[link will be added here]`
 
 **What a report contains:** the app version, car model, adapter type, the last 500 messages between the app and the car, and the scan results. **No location, no VIN, no personal data.**
 
